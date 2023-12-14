@@ -18,6 +18,7 @@ The reposeitory contains the following files:
 
 - README.md (this readme file)
 - GHOST22 - Leg 1 - Expedition.kmz (the kmz file containing the loaction and the data from the sampled springs)
+- GRL22_env_dataset - Table 2.csv (the file containing the data reported in Table 2 of the report
 
 
 Future data from Leg2 will be uploaded to this repository.
