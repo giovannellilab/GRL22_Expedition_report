@@ -1,4 +1,4 @@
-# Greenland 2022 GHOST Project: Sampling Greenland Homeothermic Springs - Leg 1 Expedition Report
+# Greenland 2022 GHOST Project: Sampling Greenland Homeothermic Springs - Expedition Report
 
 [![forthebadge](https://forthebadge.com/images/badges/cc-by.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/powered-by-coffee.svg)](https://forthebadge.com)
@@ -23,4 +23,4 @@ Future data from Leg2 will be uploaded to this repository.
 
 Please cite as:
 
-Donato Giovannelli, Matteo Selci, Margaret Cramm, James A. Bradley, J. Maarten de Moor, Peter H. Barry, Shaunna M. Morrison, Monica Correggia, Luciano di Iorio, Angelina Cordone, Stefano Caliro, Sæmundur A. Halldórsson. (2023). Greenland 2022 GHOST Project: Sampling Greenland Geothermal Springs - Expedition Report. Open Research Europe
+Donato Giovannelli, Matteo Selci, Margaret Cramm, James A. Bradley, J. Maarten de Moor, Peter H. Barry, Shaunna M. Morrison, Monica Correggia, Luciano di Iorio, Angelina Cordone, Stefano Caliro, Sæmundur A. Halldórsson. (2023). Greenland 2022 GHOST Project: Sampling Greenland Geothermal Springs - Expedition Report. _Open Research Europe_
