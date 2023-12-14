@@ -6,7 +6,7 @@
 
 [![giovannellilab](https://img.shields.io/badge/BY-Giovannelli_Lab-blue)](http://dgiovannelli.github.io)
 ![INTHEFIELD](https://img.shields.io/badge/MADE-In_the_Field-yellowgreen)
-[![DATA-DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6360624.svg)](https://doi.org/10.5281/zenodo.6360624)
+
 ![made-with-Markdown](https://img.shields.io/badge/Made_with-Sweat_&_Mosquitoes-red.svg)
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity)
 
@@ -23,4 +23,4 @@ Future data from Leg2 will be uploaded to this repository.
 
 Please cite as:
 
-XXXXX
+Donato Giovannelli, Matteo Selci, Margaret Cramm, James A. Bradley, J. Maarten de Moor, Peter H. Barry, Shaunna M. Morrison, Monica Correggia, Luciano di Iorio, Angelina Cordone, Stefano Caliro, Sæmundur A. Halldórsson. (2023). Greenland 2022 GHOST Project: Sampling Greenland Geothermal Springs - Expedition Report. Open Research Europe
